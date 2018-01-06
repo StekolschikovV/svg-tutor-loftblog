@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 618 290" style="enable-background:new 0 0 618 290;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:#373737;}
+	.st2{fill:#EDE3DA;stroke:#373737;stroke-width:10;stroke-miterlimit:10;}
+	.st3{fill:#B3A695;stroke:#373737;stroke-width:10;stroke-miterlimit:10;}
+	.st4{fill:#FFE4BF;stroke:#373737;stroke-width:10;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#373737;stroke-width:10;stroke-miterlimit:10;}
+</style>
+<defs>
+	<style>
+		@keyframes animK{
+			0%{
+				transform-origin: 70% 10%;
+				transform: rotate(0deg)
+			}
+			50%{
+				transform-origin: 70% 10%;
+				transform: rotate(-40deg)
+			}
+			100%{
+				transform-origin: 70% 10%;
+				transform: rotate(0deg)
+			}
+		}
+		.amin #wong {
+			animation: animK .8s ease-in-out 3
+		}
+
+	</style>
+	<script>
+		var svg = document.querySelector('#svg')
+		svg.addEventListener('click', function(){
+			this.classList.toggle('amin')
+		})
+	</script>
+</defs>
+<g id="leg" class="st0">
+</g>
+<g id="contur" class="st0">
+</g>
+<g id="hear" class="st0">
+</g>
+<g>
+	<path class="st1" d="M328,290h-44c0-12.2,9.8-22,22-22S328,277.8,328,290z"/>
+	<path class="st2" d="M209,13c0,0-31,319,200,260V13C409,13,297,71,209,13z"/>
+	<path class="st3" d="M210,17v77l101,18l98.3-11L409,13C409,13,324,88,210,17z"/>
+	<path class="st4" d="M310,177l12-40.9c-7.7-16.2-15.3-16.2-23,0L310,177z"/>
+	<path class="st1" d="M385,290h-44c0-12.2,9.8-22,22-22S385,277.8,385,290z"/>
+	<g id="wong">
+		<path class="st3" d="M409,23v247c-57.3-16.8-97.4-44.3-106-91.6C303,168,409,23,409,23z"/>
+		<path class="st3" d="M333.7,230.8c0,0,26-1.1,32.5-17.1c9.1,6.4,26,16,42.8,5.3"/>
+		<path class="st3" d="M304,188.2c0,0,21.3,9.7,50-14.5c0,0,37.5,22.5,55,0"/>
+	</g>
+	<g id="eyes">
+		<g id="eye">
+			<circle class="st5" cx="262.5" cy="102.5" r="48.8"/>
+			<path class="st5" d="M239,112c0-29.6,43-29.1,43,0"/>
+		</g>
+		<g id="eye_1_">
+			<circle class="st5" cx="360.5" cy="102.5" r="48.8"/>
+			<path class="st5" d="M337,112c0-29.6,43-29.1,43,0"/>
+		</g>
+	</g>
+</g>
+<g id="beaK" class="st0">
+</g>
+</svg>
